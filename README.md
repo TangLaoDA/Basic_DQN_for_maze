@@ -11,5 +11,5 @@ We can construct an environmental reward matrix when programming，it is shown b
 ![image](https://github.com/TangLaoDA/Basic_Q_Learning/blob/master/image/4.png)   
 In the basic q learning algorithm，we train a Q matrix.  
 But in the basic DQN(Deep Q Learning Neural Networks) algorithm,we train a Q net.  
-You can Optimize this algorithm. If you want to exchange ideas with me，you can add me to WeChat:zggcdbd.  
+You can Optimize this algorithm. If you want to exchange ideas with me，you can add me to WeChat:zggcdbs.  
 
